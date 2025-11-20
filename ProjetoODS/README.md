@@ -168,7 +168,7 @@ npm install
 Crie um arquivo `.env` em `src/.env`:
 
 ```env
-MONGODB_URI=mongodb+srv://usuario:senha@cluster.mongodb.net/ecoimpacto?retryWrites=true&w=majority
+MONGODB_URI=
 ```
 
 ### Passo 5: Inicie o Servidor
